@@ -11,4 +11,4 @@ The application runs on javascript.it is designed in a way that when the user dr
 
 Challenge 3 : Net salary calculator.
 
-The application runs onjavescript .The application takes the user taxable income it then deducts NHIF, NSSF depending on the amount the user gets. 
+The application runs on javascript .The application takes the user taxable income it then deducts NHIF, NSSF depending on the amount the user gets. 
